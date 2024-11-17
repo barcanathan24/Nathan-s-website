@@ -1,0 +1,36 @@
+body  {
+    background-color: #00a8ff;
+    font-family: arial,calibri,verdana;
+}
+
+h1   {
+font-size: 3em;
+color: #f5f6fa;
+}
+h2  {
+font-size:2em;
+color: #f5f6fa;
+}
+
+p      {
+font-size: 1.1em;
+color: #1e272e;
+}
+
+.Car    {
+margin: 60px;
+float: left;
+padding: 100px;
+border: 5px solid #1e272e;
+width: 660px;
+height: 260px;
+background-color: #00d8d6;
+border-radius: 70px;
+}
+
+.CarImage     {
+height: 360px;
+width: 760px;
+border-radius: 560px;
+-moz-border-
+}
